@@ -1,0 +1,20 @@
+# === Ask-the-Web Agent - Dependencies ===
+# Đảm bảo cài tất cả trước khi chạy:  pip install -r requirements.txt
+
+# LangGraph: framework xây dựng agent dạng graph
+langgraph>=0.4.1
+
+# Google GenAI SDK chính thức (cho Gemini API)
+google-genai>=1.14.0
+
+# Google API Core: chứa exceptions chuẩn (ResourceExhausted, v.v.)
+google-api-core>=2.24.0
+
+# Load biến môi trường từ file .env
+python-dotenv>=1.1.0
+
+# Tavily Search API client (Phase 2: Web Search)
+tavily-python>=0.5.0
+
+# Streamlit: giao diện Web UI (Phase 4)
+streamlit>=1.45.0

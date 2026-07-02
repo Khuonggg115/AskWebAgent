@@ -1,0 +1,23 @@
+# === Environment & Secrets ===
+.env
+.streamlit/secrets.toml
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# === Virtual Environment ===
+venv/
+.venv/
+env/
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
