@@ -2,7 +2,7 @@
 
 > **Perplexity thu nhỏ** — AI Agent tự động phân loại câu hỏi, tìm kiếm web, tự đánh giá và tìm thêm nếu chưa đủ, rồi tổng hợp câu trả lời có trích dẫn nguồn. Xây dựng bằng **LangGraph** + **Google Gemini 2.5 Flash** + **Tavily Search**.
 
-🔗 **Live Demo**: [Streamlit Community Cloud](#) *(cập nhật link sau khi deploy)*
+🔗 **Live Demo**:https://askwebagent-azff3ebgvab6mkabqby9km.streamlit.app/
 
 ---
 
