@@ -39,7 +39,7 @@ User Question
                            └──────────────────┘
 ```
 
-## ✨ Điểm nổi bật (cho Portfolio)
+## ✨ Điểm nổi bật
 
 | Kỹ thuật | Giải thích |
 |----------|-----------|
@@ -143,10 +143,3 @@ python app.py
 | **3** | Multi-step Reasoning (Agentic RAG Loop) | ✅ |
 | **4** | Streamlit Web UI + Deploy Cloud | ✅ |
 
-## 📝 License
-
-MIT
-
----
-
-*Built with ❤️ as an AI Engineer portfolio project*
